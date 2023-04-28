@@ -13,7 +13,7 @@ public class Hello_test {
 		
 		System.out.println("dina's change again");
 		
-		System.out.println("dina's change yo ");
+		System.out.println("dina's change yo  yo");
 
 	}
 	
